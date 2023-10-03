@@ -1,3 +1,5 @@
 print("hello mam")
 print("this is foss demo pratical")
 print("we doing guithub pratical for demo")
+print("now its 4:45 and time to going home")
+print("then we will meet next day")
